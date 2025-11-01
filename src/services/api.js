@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8000/api/conflict';
+const API_BASE_URL = 'http://54.90.99.160:8000/api/conflict';
 
 export const conflictAPI = {
   // Step 1: Topic Selection
